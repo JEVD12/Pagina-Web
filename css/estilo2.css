@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(6, 219, 242);
+    margin-left: 200px;
+    color: rgb(10, 5, 139);
+ }
+ ul{
+     position: absolute;
+     left: 0px;
+     list-style-type: none;
+ }
+ li {
+     background-color: rgb(255, 255, 255);
+     color: rgb(37, 26, 198);
+     margin-bottom: 10px;
+     padding: 7px;
+     border-right: 14px solid rgb(32, 10, 181);
+ }
+ .clases_color{
+ color: rgb(0, 255, 13);}
+ #id1
+ {
+color:rgb(255, 142, 127)
+ }
+ input{
+    border-radius: 10px;
+    padding: 7px;
+    
+ }
+ .btn-enviar{
+    color: blueviolet;
+    background-color: rgba(0,  255, 0);
+ }
+
+.btn-reseteo{
+   color: blueviolet;
+   background-color: rgba(0,  255, 0);
+}
+.btn{
+    padding: 7px;
+    border-radius: 10px;
+    border: 0px;
+}
